@@ -13,6 +13,12 @@
 		0E1F71A61E656F9100E87946 /* AutolayoutTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0E1F71A41E656F9100E87946 /* AutolayoutTest.xcdatamodeld */; };
 		0E1F71A81E656F9100E87946 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71A71E656F9100E87946 /* Assets.xcassets */; };
 		0E1F71AB1E656F9100E87946 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71A91E656F9100E87946 /* LaunchScreen.storyboard */; };
+		0E1F71B41E6570AF00E87946 /* ExperienceMoneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1F71B21E6570AF00E87946 /* ExperienceMoneyViewController.swift */; };
+		0E1F71B51E6570AF00E87946 /* ExperienceMoneyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71B31E6570AF00E87946 /* ExperienceMoneyViewController.xib */; };
+		0E1F71B71E6571A600E87946 /* 了解合伙人.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71B61E6571A600E87946 /* 了解合伙人.png */; };
+		0E1F71C31E65725600E87946 /* seperate_line_full@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71C21E65725600E87946 /* seperate_line_full@2x.png */; };
+		0EF1CD391E6953720026E383 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF1CD371E6953720026E383 /* TestViewController.swift */; };
+		0EF1CD3A1E6953720026E383 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EF1CD381E6953720026E383 /* TestViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +30,12 @@
 		0E1F71A71E656F9100E87946 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E1F71AA1E656F9100E87946 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E1F71AC1E656F9100E87946 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E1F71B21E6570AF00E87946 /* ExperienceMoneyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExperienceMoneyViewController.swift; sourceTree = "<group>"; };
+		0E1F71B31E6570AF00E87946 /* ExperienceMoneyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ExperienceMoneyViewController.xib; sourceTree = "<group>"; };
+		0E1F71B61E6571A600E87946 /* 了解合伙人.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "了解合伙人.png"; sourceTree = "<group>"; };
+		0E1F71C21E65725600E87946 /* seperate_line_full@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "seperate_line_full@2x.png"; sourceTree = "<group>"; };
+		0EF1CD371E6953720026E383 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		0EF1CD381E6953720026E383 /* TestViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,10 @@
 		0E1F719C1E656F9100E87946 /* AutolayoutTest */ = {
 			isa = PBXGroup;
 			children = (
+				0E1F71B61E6571A600E87946 /* 了解合伙人.png */,
+				0E1F71C21E65725600E87946 /* seperate_line_full@2x.png */,
+				0E1F71B21E6570AF00E87946 /* ExperienceMoneyViewController.swift */,
+				0E1F71B31E6570AF00E87946 /* ExperienceMoneyViewController.xib */,
 				0E1F719D1E656F9100E87946 /* AppDelegate.swift */,
 				0E1F719F1E656F9100E87946 /* ViewController.swift */,
 				0E1F71A11E656F9100E87946 /* Main.storyboard */,
@@ -63,6 +79,8 @@
 				0E1F71A91E656F9100E87946 /* LaunchScreen.storyboard */,
 				0E1F71AC1E656F9100E87946 /* Info.plist */,
 				0E1F71A41E656F9100E87946 /* AutolayoutTest.xcdatamodeld */,
+				0EF1CD371E6953720026E383 /* TestViewController.swift */,
+				0EF1CD381E6953720026E383 /* TestViewController.xib */,
 			);
 			path = AutolayoutTest;
 			sourceTree = "<group>";
@@ -125,9 +143,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E1F71C31E65725600E87946 /* seperate_line_full@2x.png in Resources */,
 				0E1F71AB1E656F9100E87946 /* LaunchScreen.storyboard in Resources */,
 				0E1F71A81E656F9100E87946 /* Assets.xcassets in Resources */,
 				0E1F71A31E656F9100E87946 /* Main.storyboard in Resources */,
+				0E1F71B71E6571A600E87946 /* 了解合伙人.png in Resources */,
+				0EF1CD3A1E6953720026E383 /* TestViewController.xib in Resources */,
+				0E1F71B51E6570AF00E87946 /* ExperienceMoneyViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +160,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EF1CD391E6953720026E383 /* TestViewController.swift in Sources */,
 				0E1F71A61E656F9100E87946 /* AutolayoutTest.xcdatamodeld in Sources */,
+				0E1F71B41E6570AF00E87946 /* ExperienceMoneyViewController.swift in Sources */,
 				0E1F71A01E656F9100E87946 /* ViewController.swift in Sources */,
 				0E1F719E1E656F9100E87946 /* AppDelegate.swift in Sources */,
 			);
@@ -290,6 +314,7 @@
 				0E1F71B11E656F9100E87946 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
