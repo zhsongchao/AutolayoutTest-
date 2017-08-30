@@ -13,10 +13,14 @@
 		0E1F71A61E656F9100E87946 /* AutolayoutTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0E1F71A41E656F9100E87946 /* AutolayoutTest.xcdatamodeld */; };
 		0E1F71A81E656F9100E87946 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71A71E656F9100E87946 /* Assets.xcassets */; };
 		0E1F71AB1E656F9100E87946 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71A91E656F9100E87946 /* LaunchScreen.storyboard */; };
-		0E1F71B41E6570AF00E87946 /* ExperienceMoneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E1F71B21E6570AF00E87946 /* ExperienceMoneyViewController.swift */; };
-		0E1F71B51E6570AF00E87946 /* ExperienceMoneyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71B31E6570AF00E87946 /* ExperienceMoneyViewController.xib */; };
 		0E1F71B71E6571A600E87946 /* 了解合伙人.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71B61E6571A600E87946 /* 了解合伙人.png */; };
 		0E1F71C31E65725600E87946 /* seperate_line_full@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0E1F71C21E65725600E87946 /* seperate_line_full@2x.png */; };
+		0EEB9D241F56969B0061ACFE /* ExperienceMoneyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB9D221F56969B0061ACFE /* ExperienceMoneyViewController.swift */; };
+		0EEB9D251F56969B0061ACFE /* ExperienceMoneyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB9D231F56969B0061ACFE /* ExperienceMoneyViewController.xib */; };
+		0EEB9D281F56973E0061ACFE /* NewVersionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EEB9D261F56973E0061ACFE /* NewVersionViewController.swift */; };
+		0EEB9D291F56973E0061ACFE /* NewVersionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB9D271F56973E0061ACFE /* NewVersionViewController.xib */; };
+		0EEB9D2C1F5697E10061ACFE /* 弹框背景.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB9D2A1F5697E10061ACFE /* 弹框背景.png */; };
+		0EEB9D2D1F5697E10061ACFE /* 马上捷财@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EEB9D2B1F5697E10061ACFE /* 马上捷财@2x.png */; };
 		0EF1CD391E6953720026E383 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EF1CD371E6953720026E383 /* TestViewController.swift */; };
 		0EF1CD3A1E6953720026E383 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0EF1CD381E6953720026E383 /* TestViewController.xib */; };
 /* End PBXBuildFile section */
@@ -30,10 +34,14 @@
 		0E1F71A71E656F9100E87946 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E1F71AA1E656F9100E87946 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E1F71AC1E656F9100E87946 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0E1F71B21E6570AF00E87946 /* ExperienceMoneyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExperienceMoneyViewController.swift; sourceTree = "<group>"; };
-		0E1F71B31E6570AF00E87946 /* ExperienceMoneyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ExperienceMoneyViewController.xib; sourceTree = "<group>"; };
 		0E1F71B61E6571A600E87946 /* 了解合伙人.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "了解合伙人.png"; sourceTree = "<group>"; };
 		0E1F71C21E65725600E87946 /* seperate_line_full@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "seperate_line_full@2x.png"; sourceTree = "<group>"; };
+		0EEB9D221F56969B0061ACFE /* ExperienceMoneyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExperienceMoneyViewController.swift; sourceTree = "<group>"; };
+		0EEB9D231F56969B0061ACFE /* ExperienceMoneyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ExperienceMoneyViewController.xib; sourceTree = "<group>"; };
+		0EEB9D261F56973E0061ACFE /* NewVersionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewVersionViewController.swift; sourceTree = "<group>"; };
+		0EEB9D271F56973E0061ACFE /* NewVersionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewVersionViewController.xib; sourceTree = "<group>"; };
+		0EEB9D2A1F5697E10061ACFE /* 弹框背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "弹框背景.png"; sourceTree = "<group>"; };
+		0EEB9D2B1F5697E10061ACFE /* 马上捷财@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "马上捷财@2x.png"; sourceTree = "<group>"; };
 		0EF1CD371E6953720026E383 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		0EF1CD381E6953720026E383 /* TestViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -69,9 +77,13 @@
 			isa = PBXGroup;
 			children = (
 				0E1F71B61E6571A600E87946 /* 了解合伙人.png */,
+				0EEB9D2A1F5697E10061ACFE /* 弹框背景.png */,
+				0EEB9D2B1F5697E10061ACFE /* 马上捷财@2x.png */,
 				0E1F71C21E65725600E87946 /* seperate_line_full@2x.png */,
-				0E1F71B21E6570AF00E87946 /* ExperienceMoneyViewController.swift */,
-				0E1F71B31E6570AF00E87946 /* ExperienceMoneyViewController.xib */,
+				0EEB9D221F56969B0061ACFE /* ExperienceMoneyViewController.swift */,
+				0EEB9D231F56969B0061ACFE /* ExperienceMoneyViewController.xib */,
+				0EEB9D261F56973E0061ACFE /* NewVersionViewController.swift */,
+				0EEB9D271F56973E0061ACFE /* NewVersionViewController.xib */,
 				0E1F719D1E656F9100E87946 /* AppDelegate.swift */,
 				0E1F719F1E656F9100E87946 /* ViewController.swift */,
 				0E1F71A11E656F9100E87946 /* Main.storyboard */,
@@ -117,6 +129,7 @@
 				TargetAttributes = {
 					0E1F71991E656F9100E87946 = {
 						CreatedOnToolsVersion = 7.1;
+						LastSwiftMigration = 0830;
 					};
 				};
 			};
@@ -147,9 +160,12 @@
 				0E1F71AB1E656F9100E87946 /* LaunchScreen.storyboard in Resources */,
 				0E1F71A81E656F9100E87946 /* Assets.xcassets in Resources */,
 				0E1F71A31E656F9100E87946 /* Main.storyboard in Resources */,
+				0EEB9D2C1F5697E10061ACFE /* 弹框背景.png in Resources */,
+				0EEB9D291F56973E0061ACFE /* NewVersionViewController.xib in Resources */,
+				0EEB9D251F56969B0061ACFE /* ExperienceMoneyViewController.xib in Resources */,
+				0EEB9D2D1F5697E10061ACFE /* 马上捷财@2x.png in Resources */,
 				0E1F71B71E6571A600E87946 /* 了解合伙人.png in Resources */,
 				0EF1CD3A1E6953720026E383 /* TestViewController.xib in Resources */,
-				0E1F71B51E6570AF00E87946 /* ExperienceMoneyViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,11 +176,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EEB9D281F56973E0061ACFE /* NewVersionViewController.swift in Sources */,
 				0EF1CD391E6953720026E383 /* TestViewController.swift in Sources */,
 				0E1F71A61E656F9100E87946 /* AutolayoutTest.xcdatamodeld in Sources */,
-				0E1F71B41E6570AF00E87946 /* ExperienceMoneyViewController.swift in Sources */,
 				0E1F71A01E656F9100E87946 /* ViewController.swift in Sources */,
 				0E1F719E1E656F9100E87946 /* AppDelegate.swift in Sources */,
+				0EEB9D241F56969B0061ACFE /* ExperienceMoneyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +298,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zsc.AutolayoutTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -292,6 +310,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = zsc.AutolayoutTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
