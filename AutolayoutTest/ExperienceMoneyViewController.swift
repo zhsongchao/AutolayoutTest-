@@ -17,6 +17,7 @@ class ExperienceMoneyViewController: UIViewController,UINavigationControllerDele
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.backgroundColor = UIColor.init(colorLiteralRed: 239/255.0, green: 239/255.0, blue: 244/255.0, alpha: 1)
+        //这是一个测试
     }
 
     override func didReceiveMemoryWarning() {
